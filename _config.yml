@@ -1,12 +1,12 @@
 # Site settings
 title: Historia+Data
-description: La historia digital es un método que pretende examinar y representar el pasado a partir del uso de las tecnologías de la comunicación, la Internet y los sistemas de software.
+description: La historia digital es un método de investigación que examina y representa el pasado mediante el uso de las tecnologías de la información y la comunicación.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Historia+Data
-user_description: La historia digital es un método que pretende examinar y representar el pasado a partir del uso de las tecnologías de la comunicación, la Internet y los sistemas de software.
+user_description: La historia digital es un método de investigación que examina y representa el pasado mediante el uso de las tecnologías de la información y la comunicación.
 user_title: Blog de historia digital
 email: davidcc86@gmail.com
 twitter_username: davidchavarria_
