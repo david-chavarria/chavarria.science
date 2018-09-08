@@ -8,13 +8,13 @@ description: Blog de historia digital
 username: Historia+Data
 user_description:
 user_title: Blog de historia digital
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+email: davidcc86@gmail.com
+twitter_username: davidchavarria_
+github_username:  david-chavarria
+gplus_username:
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "125430488"
 
 exclude: ['package.json', 'src' , 'node_modules']
