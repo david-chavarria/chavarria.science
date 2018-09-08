@@ -1,11 +1,11 @@
 # Site settings
 title: Historia+Data
-description: Blog de historia digital
+description: blog de historia y humanidades digitales
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Historia+Data
+username: Historia+Data: blog de historia y humanidades digitales
 user_description:
 user_title: Blog de historia digital
 email: davidcc86@gmail.com
