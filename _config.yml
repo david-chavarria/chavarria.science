@@ -1,7 +1,7 @@
 # Site settings
 title: Historia+Data
-description: La historia digital es un método de investigación que utiliza recursos digitales para construir explicaciones históricas. Los principales recursos empleados son datos digitales y programas informáticos dedicados a la minería de datos. 
-La filosofía de este laboratorio digital —en forma de entradas de blog— es un esfuerzo inicial por comprender y evaluar las enormes ventajas y las grandes limitaciones que resultan de la aplicación de estas tecnologías al campo de la historia, las ciencias sociales y las humanidades.
+description: Una definición sencilla que contiene elementos muy complejos: la historia digital es un método de investigación que utiliza recursos digitales para construir explicaciones históricas. Los recursos que emplea son principalmente datos digitales y programas informáticos dedicados a la minería de datos. 
+Este laboratorio digital —en forma de entradas de blog— es un esfuerzo inicial de un grupo de jóvenes académicos latinoamericanos que quieren comprender y evaluar las ventajas y los límites en la aplicación de estas tecnologías al campo de la historia, las ciencias sociales y las humanidades.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
